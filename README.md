@@ -1,0 +1,2 @@
+# eventTracker
+MERN stack application
